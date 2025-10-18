@@ -5,4 +5,8 @@ Olá! Sou formado no curso técnico em Análise e Desenvolvimento de Sistemas. A
 <img width="148" height="28" alt="image" src="https://github.com/user-attachments/assets/1a3f8c40-ff6a-4768-a73c-e20d08008c83" />
 <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/6770846e-46f3-4a6a-a1d0-87c18951a78d" />
 <img width="88" height="28" alt="sas" src="https://github.com/user-attachments/assets/57ba607d-5a05-4a00-9061-0942ba505a1c" />
+<a href="https://www.linkedin.com/in/vinicius-marques-souza/" target="_blank">
+  <img width="88" height="28" alt="sas" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
